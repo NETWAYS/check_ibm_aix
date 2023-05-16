@@ -1,8 +1,8 @@
+Warning: This is a prototype and not finished and not very well tested.
+
 # Plugins for IBM AIX systems
 
-Some experimental plugins we wrote for a customer.
-
-## License
+# License
 
 Copyright (C) 2021 [NETWAYS GmbH](mailto:info@netways.de)
 
